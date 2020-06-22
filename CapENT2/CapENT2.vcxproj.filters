@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CapENT2.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="CapENT2Dlg.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="GetNewID.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="GetID.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="CapENT2moromoro.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Dayretr.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="usbhid.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="CSetrefnames.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="CTransDLG.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="CTrimChan.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CapENT2.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="CapENT2Dlg.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="GetNewID.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="GetID.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Dayretr.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="USBio.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="CSetrefnames.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="CTransDLG.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="CTrimChan.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CapENT2.rc">
+      <Filter>リソース ファイル</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\CapENT2.rc2">
+      <Filter>リソース ファイル</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\CapENT2.ico">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_start.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\number.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_exit.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_newid.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_resetrec.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_stop.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_trim.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_gomi.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\ref1.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\ref2.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\ref3.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\ref4.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\retr.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_changeid.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_capture.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_record.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\button_stop1.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\bitmap5.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\deint.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\backup.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\bitmap6.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\bmp00001.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\deinton.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\bitmap7.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\deint_check.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="res\deinton_check.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
